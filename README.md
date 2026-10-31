@@ -1,34 +1,104 @@
-hungry app -api
+# 🍔 Hungry – Food Ordering App UI
 
+A modern and user-friendly food ordering application built with **Flutter** and **Dart**. Hungry focuses on delivering a clean interface, smooth navigation, and an enjoyable mobile shopping experience.
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="splash.png" width="220" alt="Home Screen"/>
+  <img src="home.png" width="220" alt="Home Screen"/>
+  <img src="cart.png" width="220" alt="Cart Screen"/>
+  <img src="login.png" width="220" alt="Order History Screen"/>
+  <img src="orderhistory.png" width="220" alt="Profile Screen"/>
+  <img src="paymentMethod.png" width="220" alt="Profile Screen"/>
+  <img src="pamentSuccsess.png" width="220" alt="Profile Screen"/>
+  <img src="prfile.png" width="220" alt="Profile Screen"/>
+  <img src="login.png" width="220" alt="Profile Screen"/>
+  <img src="signup-register.png" width="220" alt="Profile Screen"/>
+</p>
+
+## ✨ Features
+
+- **Home Screen:** Browse food items through a clean and attractive interface.
+- **Shopping Cart:** View and manage selected items.
+- **Order History:** View previous orders.
+- **Profile Screen:** Access user profile information.
+- **Modern Navigation:** Custom glassmorphism-inspired bottom navigation bar.
+- **Responsive UI:** Designed to provide a consistent experience across different screen sizes.
+- **Reusable Components:** Organized UI components for easier maintenance and development.
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Flutter | Cross-platform UI development |
+| Dart | Application programming language |
+| Material Design | UI components and styling |
+| Git & GitHub | Version control |
+
+## 📂 Project Structure
+
+```text
 lib/
-core/
-constants/
-api_endpoins.dart
-app_colors.dart
-app_strings.dart
+├── core/
+│   └── constants/
+├── features/
+│   ├── home/
+│   ├── cart/
+│   ├── orderHistory/
+│   └── auth/
+└── main.dart
+```
 
-network/
-api_services.dart
-api_expetioin.dart
+*Note: Adjust this structure to match the actual project folders.*
 
-utils/
-helpers.dart
-vlaidators.dart
+## 🚀 Getting Started
 
-featuers/
-food/
-data/
-food_model.dart
-food_repository.dart
+### Prerequisites
 
-view/
-food_list_view.dart
-food_detail_view.dart
+- Flutter SDK
+- Dart SDK
+- Android Studio or Visual Studio Code
 
-widgets/
-food_card.dart
+### Installation
 
+1. Clone the repository:
 
-main.dart
+```bash
+git clone YOUR_REPOSITORY_URL
+```
 
+2. Navigate to the project directory:
 
+```bash
+cd hungry
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Run the application:
+
+```bash
+flutter run
+```
+
+## 🎯 Project Goals
+
+Hungry was developed as a practical Flutter UI project to improve mobile application development skills, explore modern interface design, and build reusable components with a focus on user experience.
+
+## 👨‍💻 Developer
+
+**Ammar Yaser Alsalahi**
+
+- GitHub: [@ammaralsalahi](https://github.com/ammaralsalahi)
+- LinkedIn: [Ammar Yaser Alsalahi](https://www.linkedin.com/in/ammar-yaser-alsalahi-1ab8bb379/)
+
+---
+
+<p align="center">
+  <b>Built with Flutter ❤️</b>
+</p>
