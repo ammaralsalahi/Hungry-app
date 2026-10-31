@@ -11,8 +11,8 @@ A modern and user-friendly food ordering application built with **Flutter** and 
   <img src="login.png" width="220" alt="Order History Screen"/>
   <img src="orderhistory.png" width="220" alt="Profile Screen"/>
   <img src="paymentMethod.png" width="220" alt="Profile Screen"/>
-  <img src="pamentSuccsess.png" width="220" alt="Profile Screen"/>
-  <img src="prfile.png" width="220" alt="Profile Screen"/>
+  <img src="paymentSuccsess.png" width="220" alt="Profile Screen"/>
+  <img src="profile.png" width="220" alt="Profile Screen"/>
   <img src="login.png" width="220" alt="Profile Screen"/>
   <img src="signup-register.png" width="220" alt="Profile Screen"/>
 </p>
@@ -65,7 +65,7 @@ lib/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git https://github.com/ammaralsalahi/Hungry-app.git
 ```
 
 2. Navigate to the project directory:
