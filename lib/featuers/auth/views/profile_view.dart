@@ -54,7 +54,7 @@ class _ProfileViewState extends State<ProfileView> {
                   height: 100,
                   width: 100,
                   decoration: BoxDecoration(
-                    image: DecorationImage(image: AssetImage("")),
+                  //  image: DecorationImage(image: AssetImage("D:/flutterprojects/hung/hungry/assets/images/hero.jpg")),
                     border: Border.all(width: 5, color: Colors.white),
                     borderRadius: BorderRadius.circular(15),
                     color: Colors.grey.shade500,

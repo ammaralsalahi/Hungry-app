@@ -18,7 +18,7 @@ class UserHeader extends StatelessWidget {
           children: [
             Gap(45),
             SvgPicture.asset(
-              "assets/logo/logo.svg",
+              "D:/flutterprojects/hung/hungry/assets/logo/logo.svg",
               color: AppColors.primary,
               height: 35,
             ),
@@ -35,7 +35,7 @@ class UserHeader extends StatelessWidget {
         Spacer(),
         CircleAvatar(
           radius: 30,
-          backgroundImage: AssetImage(""),
+          //backgroundImage: AssetImage(""),
           backgroundColor: AppColors.primary,
           child: Icon(CupertinoIcons.person, color: Colors.white),
         ),
