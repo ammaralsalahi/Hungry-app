@@ -9,6 +9,7 @@ A modern and user-friendly food ordering application built with **Flutter** and 
   <img src="home.png" width="220" alt="Home Screen"/>
   <img src="cart.png" width="220" alt="Cart Screen"/>
   <img src="login.png" width="220" alt="login Screen"/>
+  <img src="signup.png" width="220" alt="login Screen"/>
   <img src="orderhistory.png" width="220" alt="order history Screen"/>
   <img src="paymentMethod.png" width="220" alt="paymentMethod Screen"/>
   <img src="paymentSuccsess.png" width="220" alt="paymentSuccess Screen"/>
