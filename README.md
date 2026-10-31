@@ -8,13 +8,12 @@ A modern and user-friendly food ordering application built with **Flutter** and 
   <img src="splash.png" width="220" alt="Home Screen"/>
   <img src="home.png" width="220" alt="Home Screen"/>
   <img src="cart.png" width="220" alt="Cart Screen"/>
-  <img src="login.png" width="220" alt="Order History Screen"/>
-  <img src="orderhistory.png" width="220" alt="Profile Screen"/>
-  <img src="paymentMethod.png" width="220" alt="Profile Screen"/>
-  <img src="paymentSuccsess.png" width="220" alt="Profile Screen"/>
+  <img src="login.png" width="220" alt="login Screen"/>
+  <img src="orderhistory.png" width="220" alt="order history Screen"/>
+  <img src="paymentMethod.png" width="220" alt="paymentMethod Screen"/>
+  <img src="paymentSuccsess.png" width="220" alt="paymentSuccess Screen"/>
   <img src="profile.png" width="220" alt="Profile Screen"/>
-  <img src="login.png" width="220" alt="Profile Screen"/>
-  <img src="signup-register.png" width="220" alt="Profile Screen"/>
+  <img src="signup-register.png" width="220" alt="sign up Screen"/>
 </p>
 
 ## ✨ Features
